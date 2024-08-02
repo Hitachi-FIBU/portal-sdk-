@@ -1,0 +1,159 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-ios12-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name HASPortal
+import DeveloperToolsSupport
+import Foundation
+import Swift
+import SwiftUI
+import UIKit
+import WebKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@objc public protocol WKWebViewControllerDelegate {
+  @objc optional func webViewController(_ controller: HASPortal.WKWebViewController, canDismiss url: Foundation.URL) -> Swift.Bool
+  @objc optional func webViewController(_ controller: HASPortal.WKWebViewController, didStart url: Foundation.URL)
+  @objc optional func webViewController(_ controller: HASPortal.WKWebViewController, didFinish url: Foundation.URL)
+  @objc optional func webViewController(_ controller: HASPortal.WKWebViewController, didFail url: Foundation.URL, withError error: any Swift.Error)
+  @objc optional func webViewController(_ controller: HASPortal.WKWebViewController, decidePolicy url: Foundation.URL, navigationType: HASPortal.NavigationType) -> Swift.Bool
+}
+@objc @_Concurrency.MainActor(unsafe) open class WKWebViewController : UIKit.UIViewController, WebKit.WKScriptMessageHandler {
+  @_Concurrency.MainActor(unsafe) @objc public func userContentController(_ userContentController: WebKit.WKUserContentController, didReceive message: WebKit.WKScriptMessage)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public init()
+  @_Concurrency.MainActor(unsafe) public init(configuration: [Swift.String : Any], capBrowserPlugin: HASPortal.Portal)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) public init(source: HASPortal.WKWebSource?)
+  @_Concurrency.MainActor(unsafe) public init(url: Foundation.URL)
+  @_Concurrency.MainActor(unsafe) public init(configuration: [Swift.String : Any], capBrowserPlugin: HASPortal.Portal, url: Foundation.URL, headers: [Swift.String : Swift.String], isInspectable: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) open var hasDynamicTitle: Swift.Bool
+  @_Concurrency.MainActor(unsafe) open var source: HASPortal.WKWebSource?
+  @_Concurrency.MainActor(unsafe) open var url: Foundation.URL? {
+    get
+  }
+  @_Concurrency.MainActor(unsafe) open var tintColor: UIKit.UIColor?
+  @_Concurrency.MainActor(unsafe) open var allowsFileURL: Swift.Bool
+  @_Concurrency.MainActor(unsafe) open var delegate: (any HASPortal.WKWebViewControllerDelegate)?
+  @_Concurrency.MainActor(unsafe) open var bypassedSSLHosts: [Swift.String]?
+  @_Concurrency.MainActor(unsafe) open var cookies: [Foundation.HTTPCookie]?
+  @_Concurrency.MainActor(unsafe) open var headers: [Swift.String : Swift.String]?
+  @_Concurrency.MainActor(unsafe) open var capBrowserPlugin: HASPortal.Portal?
+  @_Concurrency.MainActor(unsafe) open var closeModal: Swift.Bool
+  @_Concurrency.MainActor(unsafe) open var closeModalTitle: Swift.String
+  @_Concurrency.MainActor(unsafe) open var closeModalDescription: Swift.String
+  @_Concurrency.MainActor(unsafe) open var closeModalOk: Swift.String
+  @_Concurrency.MainActor(unsafe) open var closeModalCancel: Swift.String
+  @_Concurrency.MainActor(unsafe) open var ignoreUntrustedSSLError: Swift.Bool
+  @_Concurrency.MainActor(unsafe) open var userAgent: Swift.String? {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) open var pureUserAgent: Swift.String? {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) open var websiteTitleInNavigationBar: Swift.Bool
+  @_Concurrency.MainActor(unsafe) open var doneBarButtonItemPosition: HASPortal.NavigationBarPosition
+  @_Concurrency.MainActor(unsafe) open var leftNavigationBarItemTypes: [HASPortal.BarButtonItemType]
+  @_Concurrency.MainActor(unsafe) open var rightNavigaionBarItemTypes: [HASPortal.BarButtonItemType]
+  @_Concurrency.MainActor(unsafe) open var toolbarItemTypes: [HASPortal.BarButtonItemType]
+  @_Concurrency.MainActor(unsafe) open var backBarButtonItemImage: UIKit.UIImage?
+  @_Concurrency.MainActor(unsafe) open var forwardBarButtonItemImage: UIKit.UIImage?
+  @_Concurrency.MainActor(unsafe) open var reloadBarButtonItemImage: UIKit.UIImage?
+  @_Concurrency.MainActor(unsafe) open var stopBarButtonItemImage: UIKit.UIImage?
+  @_Concurrency.MainActor(unsafe) open var activityBarButtonItemImage: UIKit.UIImage?
+  @objc deinit
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) open func initWebview(isInspectable: Swift.Bool = true)
+  @_Concurrency.MainActor(unsafe) open func setupViewElements()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillTransition(to size: CoreFoundation.CGSize, with coordinator: any UIKit.UIViewControllerTransitionCoordinator)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillLayoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillDisappear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func observeValue(forKeyPath keyPath: Swift.String?, of object: Any?, change: [Foundation.NSKeyValueChangeKey : Any]?, context: Swift.UnsafeMutableRawPointer?)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open var supportedInterfaceOrientations: UIKit.UIInterfaceOrientationMask {
+    @objc get
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open var shouldAutorotate: Swift.Bool {
+    @objc get
+  }
+}
+extension HASPortal.WKWebViewController {
+  @_Concurrency.MainActor(unsafe) public func load(source s: HASPortal.WKWebSource)
+  @_Concurrency.MainActor(unsafe) public func load(remote: Foundation.URL)
+  @_Concurrency.MainActor(unsafe) public func load(file: Foundation.URL, access: Foundation.URL)
+  @_Concurrency.MainActor(unsafe) public func load(string: Swift.String, base: Foundation.URL? = nil)
+  @_Concurrency.MainActor(unsafe) public func goBackToFirstPage()
+  @_Concurrency.MainActor(unsafe) public func reload()
+  @_Concurrency.MainActor(unsafe) public func executeScript(script: Swift.String, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+}
+extension HASPortal.WKWebViewController : WebKit.WKUIDelegate {
+}
+extension HASPortal.WKWebViewController : WebKit.WKNavigationDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, didStartProvisionalNavigation navigation: WebKit.WKNavigation!)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, didFinish navigation: WebKit.WKNavigation!)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, didFailProvisionalNavigation navigation: WebKit.WKNavigation!, withError error: any Swift.Error)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, didFail navigation: WebKit.WKNavigation!, withError error: any Swift.Error)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, didReceive challenge: Foundation.URLAuthenticationChallenge, completionHandler: @escaping (Foundation.URLSession.AuthChallengeDisposition, Foundation.URLCredential?) -> Swift.Void)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, decidePolicyFor navigationAction: WebKit.WKNavigationAction, decisionHandler: @escaping (WebKit.WKNavigationActionPolicy) -> Swift.Void)
+}
+public enum WKWebSource : Swift.Equatable {
+  case remote(Foundation.URL)
+  case file(Foundation.URL, access: Foundation.URL)
+  case string(Swift.String, base: Foundation.URL?)
+  public var url: Foundation.URL? {
+    get
+  }
+  public var remoteURL: Foundation.URL? {
+    get
+  }
+  public var absoluteString: Swift.String? {
+    get
+  }
+  public static func == (a: HASPortal.WKWebSource, b: HASPortal.WKWebSource) -> Swift.Bool
+}
+public enum BarButtonItemType {
+  case back
+  case forward
+  case reload
+  case stop
+  case activity
+  case done
+  case flexibleSpace
+  case custom(icon: UIKit.UIImage?, title: Swift.String?, action: (HASPortal.WKWebViewController) -> Swift.Void)
+}
+public enum NavigationBarPosition : Swift.String, Swift.Equatable, Swift.Codable {
+  case none
+  case left
+  case right
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+@objc public enum NavigationType : Swift.Int, Swift.Equatable, Swift.Codable {
+  case linkActivated
+  case formSubmitted
+  case backForward
+  case reload
+  case formResubmitted
+  case other
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+public typealias EventListener = (Swift.AnyObject) -> [Swift.String : Any]?
+@objc public class Portal : ObjectiveC.NSObject {
+  public init(configuration: [Swift.String : Any])
+  public func open(urlString: Swift.String, headers: [Swift.String : Swift.String] = [:], closeModal: Swift.Bool = false, closeModalTitle: Swift.String = "", closeModalDescription: Swift.String = "", closeModalOk: Swift.String = "", closeModalCancel: Swift.String = "", isInspectable: Swift.Bool = false, isAnimated: Swift.Bool = true, shareDisclaimer: [Swift.String : Any]? = nil, toolbarType: Swift.String = "blank", backgroundColor: Swift.String = "#FFFFFF", ignoreUntrustedSSLError: Swift.Bool = false, showReloadButton: Swift.Bool = false)
+  public func close()
+  public func addEventListener(eventName: Swift.String, listener: @escaping HASPortal.EventListener)
+  public func notifyListeners(eventName: Swift.String, data: [Swift.String : Any], retainUntilConsumed: Swift.Bool = false)
+  @objc deinit
+}
+extension HASPortal.NavigationBarPosition : Swift.Hashable {}
+extension HASPortal.NavigationBarPosition : Swift.RawRepresentable {}
+extension HASPortal.NavigationType : Swift.Hashable {}
+extension HASPortal.NavigationType : Swift.RawRepresentable {}
