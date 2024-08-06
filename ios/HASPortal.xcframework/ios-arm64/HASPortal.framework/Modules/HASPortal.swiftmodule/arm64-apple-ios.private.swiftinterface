@@ -150,6 +150,7 @@ public typealias EventListener = (Swift.AnyObject) -> [Swift.String : Any]?
   public func open(urlString: Swift.String, headers: [Swift.String : Swift.String] = [:], closeModal: Swift.Bool = false, closeModalTitle: Swift.String = "", closeModalDescription: Swift.String = "", closeModalOk: Swift.String = "", closeModalCancel: Swift.String = "", isInspectable: Swift.Bool = false, isAnimated: Swift.Bool = true, shareDisclaimer: [Swift.String : Any]? = nil, toolbarType: Swift.String = "blank", backgroundColor: Swift.String = "#FFFFFF", ignoreUntrustedSSLError: Swift.Bool = false, showReloadButton: Swift.Bool = false)
   public func close()
   public func addEventListener(eventName: Swift.String, listener: @escaping HASPortal.EventListener)
+  public func notifyListener(eventName: Swift.String, data: [Swift.String : Any])
   public func notifyListeners(eventName: Swift.String, data: [Swift.String : Any], retainUntilConsumed: Swift.Bool = false)
   @objc deinit
 }

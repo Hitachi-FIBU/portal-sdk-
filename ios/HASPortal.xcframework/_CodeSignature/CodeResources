@@ -10,7 +10,7 @@
 		</data>
 		<key>ios-arm64/HASPortal.framework/HASPortal</key>
 		<data>
-		rTX23OdRx9+qcC3ShiXIAo9hXeg=
+		+4TkGeO4rbw9ex7gwyZx/vYuvZA=
 		</data>
 		<key>ios-arm64/HASPortal.framework/Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>ios-arm64/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		rlRMN9nXzYPidWsmLH4tgTPieIE=
+		hq/95tFcnllQbL1AeY5D+lekGGU=
 		</data>
 		<key>ios-arm64/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		zjkDCj7Ab0WEHB9dIJBxsv3mMUs=
+		ubr0d3tga50BVo5BW029Y46ojX4=
 		</data>
 		<key>ios-arm64/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>ios-arm64/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		zjkDCj7Ab0WEHB9dIJBxsv3mMUs=
+		ubr0d3tga50BVo5BW029Y46ojX4=
 		</data>
 		<key>ios-arm64/HASPortal.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/HASPortal</key>
 		<data>
-		mRh8+As5W8m909hqgp5tEr1ilEs=
+		6UTQnrH+79kU7rQfJW1VXFi/VFY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Info.plist</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		byQfE7Bb1Q+YPulfmiB7ojEHzXk=
+		JQWFdT3zDIYJ8vTvhJbivRnFvGc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		xg1kF6QxR0iDHSBtqQhacq0z0PE=
+		7Z2f2YrFeSBJOzEUzn8qyzfZjqo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,15 +62,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xg1kF6QxR0iDHSBtqQhacq0z0PE=
+		7Z2f2YrFeSBJOzEUzn8qyzfZjqo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		byQfE7Bb1Q+YPulfmiB7ojEHzXk=
+		JQWFdT3zDIYJ8vTvhJbivRnFvGc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ZH5NasirfkvWHpvvb0T7mt/uHL0=
+		bJKVNJ7xNpbRMXbVtddxBlVNkzE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ZH5NasirfkvWHpvvb0T7mt/uHL0=
+		bJKVNJ7xNpbRMXbVtddxBlVNkzE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -102,11 +102,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rTX23OdRx9+qcC3ShiXIAo9hXeg=
+			+4TkGeO4rbw9ex7gwyZx/vYuvZA=
 			</data>
 			<key>hash2</key>
 			<data>
-			RCPzdsmQvlXpLdFCWquAx+WDC3uQErdmfu/BWLUU+y8=
+			ehtWA8qK7va/8pCi3ruwOmNI4cPUADjJyAixZzRBkTg=
 			</data>
 		</dict>
 		<key>ios-arm64/HASPortal.framework/Info.plist</key>
@@ -124,22 +124,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rlRMN9nXzYPidWsmLH4tgTPieIE=
+			hq/95tFcnllQbL1AeY5D+lekGGU=
 			</data>
 			<key>hash2</key>
 			<data>
-			QpjgPSFfKzApdumr+yeeTkt05oC/Kn4MHfO9t3im2+Q=
+			dgZDVtkq86+ru+cETNGD7DDa+rGEIBPLUoDPJkWLBvk=
 			</data>
 		</dict>
 		<key>ios-arm64/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zjkDCj7Ab0WEHB9dIJBxsv3mMUs=
+			ubr0d3tga50BVo5BW029Y46ojX4=
 			</data>
 			<key>hash2</key>
 			<data>
-			kudpjiDaYm2rkRDeF6BPZfeNPWDCFeS5zHkwgRPibHA=
+			6gLG15ymZvxLLHWFj3jS+qHLelPYDtV4b1F8FpKDeNE=
 			</data>
 		</dict>
 		<key>ios-arm64/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -157,11 +157,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zjkDCj7Ab0WEHB9dIJBxsv3mMUs=
+			ubr0d3tga50BVo5BW029Y46ojX4=
 			</data>
 			<key>hash2</key>
 			<data>
-			kudpjiDaYm2rkRDeF6BPZfeNPWDCFeS5zHkwgRPibHA=
+			6gLG15ymZvxLLHWFj3jS+qHLelPYDtV4b1F8FpKDeNE=
 			</data>
 		</dict>
 		<key>ios-arm64/HASPortal.framework/PrivacyInfo.xcprivacy</key>
@@ -190,11 +190,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mRh8+As5W8m909hqgp5tEr1ilEs=
+			6UTQnrH+79kU7rQfJW1VXFi/VFY=
 			</data>
 			<key>hash2</key>
 			<data>
-			mhwAXvEET/Quuk2haXsGpgT32077WfglbMLZlyeybD8=
+			IuoSS0nEhCmRgHhAyN5eSTp0quebMvD3/KfvlutSGHo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Info.plist</key>
@@ -212,22 +212,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			byQfE7Bb1Q+YPulfmiB7ojEHzXk=
+			JQWFdT3zDIYJ8vTvhJbivRnFvGc=
 			</data>
 			<key>hash2</key>
 			<data>
-			OaFefBoImt6kzvMoyum+O1HORrUqoRPlmF6lpWJ6efk=
+			aq/nUWK6LYUitD0gUL5DTXlaeFFUfjL3AU+LbXluH3k=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xg1kF6QxR0iDHSBtqQhacq0z0PE=
+			7Z2f2YrFeSBJOzEUzn8qyzfZjqo=
 			</data>
 			<key>hash2</key>
 			<data>
-			aM9+vthgJ3kYHOn7PLYy+0Jl4FF30huYaTZfkEakJJA=
+			qzvbtdpKavIqGRog7cuWtX0dzKdcuBdgYCNVrpDPnhI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -245,33 +245,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xg1kF6QxR0iDHSBtqQhacq0z0PE=
+			7Z2f2YrFeSBJOzEUzn8qyzfZjqo=
 			</data>
 			<key>hash2</key>
 			<data>
-			aM9+vthgJ3kYHOn7PLYy+0Jl4FF30huYaTZfkEakJJA=
+			qzvbtdpKavIqGRog7cuWtX0dzKdcuBdgYCNVrpDPnhI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			byQfE7Bb1Q+YPulfmiB7ojEHzXk=
+			JQWFdT3zDIYJ8vTvhJbivRnFvGc=
 			</data>
 			<key>hash2</key>
 			<data>
-			OaFefBoImt6kzvMoyum+O1HORrUqoRPlmF6lpWJ6efk=
+			aq/nUWK6LYUitD0gUL5DTXlaeFFUfjL3AU+LbXluH3k=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZH5NasirfkvWHpvvb0T7mt/uHL0=
+			bJKVNJ7xNpbRMXbVtddxBlVNkzE=
 			</data>
 			<key>hash2</key>
 			<data>
-			iMqZCeDtnoK/jA+8yIFT3cS+OVU5OiJ35MiU2aPOR4g=
+			ZpVi43hauBtArlqhJ6w595yOAFxdFy8ENs0knjyMzMc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -289,11 +289,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZH5NasirfkvWHpvvb0T7mt/uHL0=
+			bJKVNJ7xNpbRMXbVtddxBlVNkzE=
 			</data>
 			<key>hash2</key>
 			<data>
-			iMqZCeDtnoK/jA+8yIFT3cS+OVU5OiJ35MiU2aPOR4g=
+			ZpVi43hauBtArlqhJ6w595yOAFxdFy8ENs0knjyMzMc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/PrivacyInfo.xcprivacy</key>
