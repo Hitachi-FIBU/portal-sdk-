@@ -6,11 +6,79 @@
 	<dict>
 		<key>ios-arm64/HASPortal.framework/Assets.car</key>
 		<data>
-		0VAklMJsniGerozGgVzwwoLfUsc=
+		O7F8I3ZbRr4Xxwo0YnHt/NNNLbs=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Back.png</key>
+		<data>
+		K9CKtnFG7AGkphAwpbEZxYr4F4o=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Back@2x.png</key>
+		<data>
+		+ymBrkQTz54m9RTrhEeSngc4nDk=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Back@3x.png</key>
+		<data>
+		u6GYHUl0C0WXRXehUSl5T9oHfCI=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Contents.json</key>
+		<data>
+		ym/jVC5Xmuf/qWrrNyTUp7TE3yI=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Contents.json</key>
+		<data>
+		OsxTSdeF0zGUdTl13dMC26vX4YM=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Contents.json</key>
+		<data>
+		n78dkO4bmolHPYD8mIy2HlAAojI=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Forward.png</key>
+		<data>
+		cvunFoqGtHTDQxUASsdsTSkkOrQ=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Forward@2x.png</key>
+		<data>
+		eQ0c5cwhobFFs9pirAlpwuiu8sU=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Forward@3x.png</key>
+		<data>
+		NMAPK+LSHtzy29S1fkbHqJys8Nw=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/Contents.json</key>
+		<data>
+		HG2Y6Pkn122ZGEMUMZypmY6uzM8=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/error-background.png</key>
+		<data>
+		7WbryHlPw6eExGgd/MEOYVzOUaE=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/error-background@2x.png</key>
+		<data>
+		CuYBZVsIevTsLhzUdKehE2FH6w0=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/error-background@3x.png</key>
+		<data>
+		7PmlfjR/F0HHCZesIJgtjRide2s=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/Contents.json</key>
+		<data>
+		t+hEnwfhY8U7MSR+ejvHD4Axxig=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/mascot-sad.png</key>
+		<data>
+		q0yXZCPkhVKmCkpj/IB5VrnJbFc=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/mascot-sad@2x.png</key>
+		<data>
+		671FJn3jOcPrZI4kb+Zt56P6oGk=
+		</data>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/mascot-sad@3x.png</key>
+		<data>
+		bV8GBIqiwdVwoZReshQxjDDQUbE=
 		</data>
 		<key>ios-arm64/HASPortal.framework/HASPortal</key>
 		<data>
-		QGCBKZRkEKMBP9ZfKVnArZgtIpc=
+		stYNqmzBP785UONvYxh2WK2doUU=
 		</data>
 		<key>ios-arm64/HASPortal.framework/Info.plist</key>
 		<data>
@@ -18,7 +86,7 @@
 		</data>
 		<key>ios-arm64/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		MMVEIhT+Y8jYOpXE/9oWkHKdpMk=
+		iKGgIt8sQJyJ1nrY04URO3K1e9k=
 		</data>
 		<key>ios-arm64/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,11 +106,79 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Assets.car</key>
 		<data>
-		0VAklMJsniGerozGgVzwwoLfUsc=
+		O7F8I3ZbRr4Xxwo0YnHt/NNNLbs=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Back.png</key>
+		<data>
+		K9CKtnFG7AGkphAwpbEZxYr4F4o=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Back@2x.png</key>
+		<data>
+		+ymBrkQTz54m9RTrhEeSngc4nDk=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Back@3x.png</key>
+		<data>
+		u6GYHUl0C0WXRXehUSl5T9oHfCI=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Contents.json</key>
+		<data>
+		ym/jVC5Xmuf/qWrrNyTUp7TE3yI=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Contents.json</key>
+		<data>
+		OsxTSdeF0zGUdTl13dMC26vX4YM=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Contents.json</key>
+		<data>
+		n78dkO4bmolHPYD8mIy2HlAAojI=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Forward.png</key>
+		<data>
+		cvunFoqGtHTDQxUASsdsTSkkOrQ=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Forward@2x.png</key>
+		<data>
+		eQ0c5cwhobFFs9pirAlpwuiu8sU=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Forward@3x.png</key>
+		<data>
+		NMAPK+LSHtzy29S1fkbHqJys8Nw=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/Contents.json</key>
+		<data>
+		HG2Y6Pkn122ZGEMUMZypmY6uzM8=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/error-background.png</key>
+		<data>
+		7WbryHlPw6eExGgd/MEOYVzOUaE=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/error-background@2x.png</key>
+		<data>
+		CuYBZVsIevTsLhzUdKehE2FH6w0=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/error-background@3x.png</key>
+		<data>
+		7PmlfjR/F0HHCZesIJgtjRide2s=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/Contents.json</key>
+		<data>
+		t+hEnwfhY8U7MSR+ejvHD4Axxig=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/mascot-sad.png</key>
+		<data>
+		q0yXZCPkhVKmCkpj/IB5VrnJbFc=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/mascot-sad@2x.png</key>
+		<data>
+		671FJn3jOcPrZI4kb+Zt56P6oGk=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/mascot-sad@3x.png</key>
+		<data>
+		bV8GBIqiwdVwoZReshQxjDDQUbE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/HASPortal</key>
 		<data>
-		UwLlmg0JNL5HiUBRgpJ/1/rWUVc=
+		u4cLJ+j/vTkS+sU28zG8X1E0XGY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Info.plist</key>
 		<data>
@@ -50,7 +186,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		2zsV4v6t9ifNOz5YI1uFUWBVqXs=
+		7JoS4bKfZD/Cs+SSesyqd5tTayQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -66,7 +202,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		2zsV4v6t9ifNOz5YI1uFUWBVqXs=
+		7JoS4bKfZD/Cs+SSesyqd5tTayQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -91,22 +227,209 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0VAklMJsniGerozGgVzwwoLfUsc=
+			O7F8I3ZbRr4Xxwo0YnHt/NNNLbs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Waa8H2wiwA8IN18TwkbUBW/cXQZnsDns5Bj7KD09iYo=
+			wJQvd9MU8kBLLTI6WYGLcc+QCmTfqoT0Xar4cEGenec=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Back.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			K9CKtnFG7AGkphAwpbEZxYr4F4o=
+			</data>
+			<key>hash2</key>
+			<data>
+			2coeB1RxoVl0ync2wC2FnzeiMZNVLeGCGsqWxY4y+L0=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Back@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+ymBrkQTz54m9RTrhEeSngc4nDk=
+			</data>
+			<key>hash2</key>
+			<data>
+			X7tqhk3g2/LEJmKzUMydBQNyQgjm0UrSiWrppGzv4FM=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Back@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			u6GYHUl0C0WXRXehUSl5T9oHfCI=
+			</data>
+			<key>hash2</key>
+			<data>
+			vQ3zb7z2sAAgZzg8vMP/ZtZ/3/T5RJ/ML3z15VaDBhc=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Contents.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ym/jVC5Xmuf/qWrrNyTUp7TE3yI=
+			</data>
+			<key>hash2</key>
+			<data>
+			vizH5/rJnz+VyXflRbpJlTlDLBWEcHQAuX0NGjSB5GQ=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Contents.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OsxTSdeF0zGUdTl13dMC26vX4YM=
+			</data>
+			<key>hash2</key>
+			<data>
+			D9Sbo8NYXHCWeOAEaoIcPGBoXscGNyDTDTo0SL46IIs=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Contents.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n78dkO4bmolHPYD8mIy2HlAAojI=
+			</data>
+			<key>hash2</key>
+			<data>
+			4O2z8S1Pkmkz8WG59XWm9TQfEXT+v0RDPedZV64uM6s=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Forward.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cvunFoqGtHTDQxUASsdsTSkkOrQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			o45Sdv8xLWqP9IGomGTPzDt4tU9LsMFmIY3ZUD+iHj0=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Forward@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eQ0c5cwhobFFs9pirAlpwuiu8sU=
+			</data>
+			<key>hash2</key>
+			<data>
+			Jz1zfq0kPCaYTpCt+Pa9oShDfbjQDx0ibTG+nU/Lap0=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Forward@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NMAPK+LSHtzy29S1fkbHqJys8Nw=
+			</data>
+			<key>hash2</key>
+			<data>
+			hxbIzrx+U7/3EPw/9G4SoKEyb3Wmw0BRIKDwcWTTKnk=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/Contents.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HG2Y6Pkn122ZGEMUMZypmY6uzM8=
+			</data>
+			<key>hash2</key>
+			<data>
+			rM6QDKJf4/x4dhTYxqikWKztIEHmMecGiiBEWdZNgl8=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/error-background.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7WbryHlPw6eExGgd/MEOYVzOUaE=
+			</data>
+			<key>hash2</key>
+			<data>
+			q4wzvgVUvx/XyO6lLGWEhvRt4n1IN81+N+aO3LRmHqc=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/error-background@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CuYBZVsIevTsLhzUdKehE2FH6w0=
+			</data>
+			<key>hash2</key>
+			<data>
+			tByS+Gm5y1kn+iN9cJJCW3sILOf3S6b7cpeTl9pbpIc=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/error-background@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7PmlfjR/F0HHCZesIJgtjRide2s=
+			</data>
+			<key>hash2</key>
+			<data>
+			0lFAIXGX3xW9wLK3ZaQXU5dqA8W4PTVKGn/CPglZgXc=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/Contents.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t+hEnwfhY8U7MSR+ejvHD4Axxig=
+			</data>
+			<key>hash2</key>
+			<data>
+			qG1FRrbMlZfjs3s1kW8G00RLG+QHD7buyC3SEAMIbFg=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/mascot-sad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q0yXZCPkhVKmCkpj/IB5VrnJbFc=
+			</data>
+			<key>hash2</key>
+			<data>
+			lm7Kh/1cwmYE1DKHLADsmHFQ4NKbVkfJuBJMySlTHww=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/mascot-sad@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			671FJn3jOcPrZI4kb+Zt56P6oGk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Wnb7np387w2GOfJO5y7nz9eZnIwZzSp1y4UA7QRxEck=
+			</data>
+		</dict>
+		<key>ios-arm64/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/mascot-sad@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bV8GBIqiwdVwoZReshQxjDDQUbE=
+			</data>
+			<key>hash2</key>
+			<data>
+			Qw1JXUTi2kwDQtaDEBuFaXgHyAUvvaCqnCuqqnM7e2w=
 			</data>
 		</dict>
 		<key>ios-arm64/HASPortal.framework/HASPortal</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QGCBKZRkEKMBP9ZfKVnArZgtIpc=
+			stYNqmzBP785UONvYxh2WK2doUU=
 			</data>
 			<key>hash2</key>
 			<data>
-			XhQUQc0c0Dd5ejPC0aEjfzIzBzQvM0Ykco8WUM6ur0o=
+			SAAc7hBGYft4FAJ2mIATYciZMZdTM50G0MLkIvqNBf8=
 			</data>
 		</dict>
 		<key>ios-arm64/HASPortal.framework/Info.plist</key>
@@ -124,11 +447,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MMVEIhT+Y8jYOpXE/9oWkHKdpMk=
+			iKGgIt8sQJyJ1nrY04URO3K1e9k=
 			</data>
 			<key>hash2</key>
 			<data>
-			iKcw0g6HuAB0XOE6xXJ8KIMrXfRqoA5mY88RV/gEwK4=
+			1/WLq9UiQgwRbDHo1iEzcXQDM2Pl/XSYCNgsOzCW5Pg=
 			</data>
 		</dict>
 		<key>ios-arm64/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -179,22 +502,209 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0VAklMJsniGerozGgVzwwoLfUsc=
+			O7F8I3ZbRr4Xxwo0YnHt/NNNLbs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Waa8H2wiwA8IN18TwkbUBW/cXQZnsDns5Bj7KD09iYo=
+			wJQvd9MU8kBLLTI6WYGLcc+QCmTfqoT0Xar4cEGenec=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Back.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			K9CKtnFG7AGkphAwpbEZxYr4F4o=
+			</data>
+			<key>hash2</key>
+			<data>
+			2coeB1RxoVl0ync2wC2FnzeiMZNVLeGCGsqWxY4y+L0=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Back@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+ymBrkQTz54m9RTrhEeSngc4nDk=
+			</data>
+			<key>hash2</key>
+			<data>
+			X7tqhk3g2/LEJmKzUMydBQNyQgjm0UrSiWrppGzv4FM=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Back@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			u6GYHUl0C0WXRXehUSl5T9oHfCI=
+			</data>
+			<key>hash2</key>
+			<data>
+			vQ3zb7z2sAAgZzg8vMP/ZtZ/3/T5RJ/ML3z15VaDBhc=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Back.imageset/Contents.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ym/jVC5Xmuf/qWrrNyTUp7TE3yI=
+			</data>
+			<key>hash2</key>
+			<data>
+			vizH5/rJnz+VyXflRbpJlTlDLBWEcHQAuX0NGjSB5GQ=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Contents.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OsxTSdeF0zGUdTl13dMC26vX4YM=
+			</data>
+			<key>hash2</key>
+			<data>
+			D9Sbo8NYXHCWeOAEaoIcPGBoXscGNyDTDTo0SL46IIs=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Contents.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n78dkO4bmolHPYD8mIy2HlAAojI=
+			</data>
+			<key>hash2</key>
+			<data>
+			4O2z8S1Pkmkz8WG59XWm9TQfEXT+v0RDPedZV64uM6s=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Forward.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cvunFoqGtHTDQxUASsdsTSkkOrQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			o45Sdv8xLWqP9IGomGTPzDt4tU9LsMFmIY3ZUD+iHj0=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Forward@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eQ0c5cwhobFFs9pirAlpwuiu8sU=
+			</data>
+			<key>hash2</key>
+			<data>
+			Jz1zfq0kPCaYTpCt+Pa9oShDfbjQDx0ibTG+nU/Lap0=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/Forward.imageset/Forward@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NMAPK+LSHtzy29S1fkbHqJys8Nw=
+			</data>
+			<key>hash2</key>
+			<data>
+			hxbIzrx+U7/3EPw/9G4SoKEyb3Wmw0BRIKDwcWTTKnk=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/Contents.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HG2Y6Pkn122ZGEMUMZypmY6uzM8=
+			</data>
+			<key>hash2</key>
+			<data>
+			rM6QDKJf4/x4dhTYxqikWKztIEHmMecGiiBEWdZNgl8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/error-background.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7WbryHlPw6eExGgd/MEOYVzOUaE=
+			</data>
+			<key>hash2</key>
+			<data>
+			q4wzvgVUvx/XyO6lLGWEhvRt4n1IN81+N+aO3LRmHqc=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/error-background@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CuYBZVsIevTsLhzUdKehE2FH6w0=
+			</data>
+			<key>hash2</key>
+			<data>
+			tByS+Gm5y1kn+iN9cJJCW3sILOf3S6b7cpeTl9pbpIc=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/error-background.imageset/error-background@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7PmlfjR/F0HHCZesIJgtjRide2s=
+			</data>
+			<key>hash2</key>
+			<data>
+			0lFAIXGX3xW9wLK3ZaQXU5dqA8W4PTVKGn/CPglZgXc=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/Contents.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t+hEnwfhY8U7MSR+ejvHD4Axxig=
+			</data>
+			<key>hash2</key>
+			<data>
+			qG1FRrbMlZfjs3s1kW8G00RLG+QHD7buyC3SEAMIbFg=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/mascot-sad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q0yXZCPkhVKmCkpj/IB5VrnJbFc=
+			</data>
+			<key>hash2</key>
+			<data>
+			lm7Kh/1cwmYE1DKHLADsmHFQ4NKbVkfJuBJMySlTHww=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/mascot-sad@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			671FJn3jOcPrZI4kb+Zt56P6oGk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Wnb7np387w2GOfJO5y7nz9eZnIwZzSp1y4UA7QRxEck=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Frameworks/Assets.xcassets/mascot-sad.imageset/mascot-sad@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bV8GBIqiwdVwoZReshQxjDDQUbE=
+			</data>
+			<key>hash2</key>
+			<data>
+			Qw1JXUTi2kwDQtaDEBuFaXgHyAUvvaCqnCuqqnM7e2w=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/HASPortal</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UwLlmg0JNL5HiUBRgpJ/1/rWUVc=
+			u4cLJ+j/vTkS+sU28zG8X1E0XGY=
 			</data>
 			<key>hash2</key>
 			<data>
-			hlZRTnKmrUku90KwJYo1P9t3pEZDTVit34F/4pl8k1o=
+			l1FLN8L1KITWn7gK3lHF8tJguDo0HxQ9wzX++cpnMVg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Info.plist</key>
@@ -212,11 +722,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2zsV4v6t9ifNOz5YI1uFUWBVqXs=
+			7JoS4bKfZD/Cs+SSesyqd5tTayQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			aaKkdV13XWIZ7OsfrGChWesqphRH0wQ8OUHpBnra3nc=
+			lqixgyefxDUGBhmjWlOMmJqS4BfUOY61ls0Xd7f9Mrw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -256,11 +766,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2zsV4v6t9ifNOz5YI1uFUWBVqXs=
+			7JoS4bKfZD/Cs+SSesyqd5tTayQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			aaKkdV13XWIZ7OsfrGChWesqphRH0wQ8OUHpBnra3nc=
+			lqixgyefxDUGBhmjWlOMmJqS4BfUOY61ls0Xd7f9Mrw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/HASPortal.framework/Modules/HASPortal.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
