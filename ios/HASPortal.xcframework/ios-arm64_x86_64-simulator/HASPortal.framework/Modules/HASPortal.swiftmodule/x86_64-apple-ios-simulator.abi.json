@@ -6884,140 +6884,140 @@
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "Dictionary",
-      "offset": 2996,
+      "offset": 3335,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3031,
+      "offset": 3370,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3170,
+      "offset": 3509,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3475,
+      "offset": 3814,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3618,
+      "offset": 3957,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3655,
+      "offset": 3994,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3695,
+      "offset": 4034,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3726,
+      "offset": 4065,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3761,
+      "offset": 4100,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3803,
+      "offset": 4142,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4578,
+      "offset": 4917,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4848,
+      "offset": 5187,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "Array",
-      "offset": 4987,
+      "offset": 5326,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "Array",
-      "offset": 5053,
+      "offset": 5392,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5616,
+      "offset": 5955,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5711,
+      "offset": 6050,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5969,
+      "offset": 6308,
       "length": 6,
       "value": "\"Back\""
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6299,
+      "offset": 6638,
       "length": 9,
       "value": "\"Forward\""
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8467,
+      "offset": 8806,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/WKWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1208,
+      "offset": 1212,
       "length": 19,
       "value": "\"HASPortal.WKWebViewController\""
     },
