@@ -6771,71 +6771,78 @@
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/Error.swift",
-      "kind": "StringLiteral",
-      "offset": 2445,
-      "length": 62,
-      "value": "\"Service is currently not available.\nPlease try again later.\""
-    },
-    {
-      "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/Error.swift",
       "kind": "IntegerLiteral",
-      "offset": 2593,
+      "offset": 2568,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/Error.swift",
       "kind": "IntegerLiteral",
-      "offset": 2659,
+      "offset": 2634,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/Error.swift",
       "kind": "StringLiteral",
-      "offset": 2832,
+      "offset": 2700,
+      "length": 56,
+      "value": "\"Service is currently not available.\nPlease try again.\""
+    },
+    {
+      "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/Error.swift",
+      "kind": "StringLiteral",
+      "offset": 3008,
       "length": 11,
-      "value": "\"Try Again\""
-    },
-    {
-      "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/Error.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2979,
-      "length": 2,
-      "value": "18"
-    },
-    {
-      "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/Error.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3064,
-      "length": 2,
-      "value": "25"
+      "value": "\"try again\""
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/Error.swift",
       "kind": "BooleanLiteral",
-      "offset": 3104,
+      "offset": 3398,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/Error.swift",
       "kind": "StringLiteral",
-      "offset": 3344,
+      "offset": 3588,
       "length": 14,
       "value": "\"Back to Home\""
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/Error.swift",
       "kind": "IntegerLiteral",
-      "offset": 3639,
+      "offset": 3738,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/Error.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3823,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/Error.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3863,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/Error.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4139,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/chrislee\/Documents\/Projects\/aeon\/lms\/mini-app\/native\/lib\/ios\/workspace\/HASPortal\/ios\/HASPortal\/Error.swift",
       "kind": "BooleanLiteral",
-      "offset": 3677,
+      "offset": 4177,
       "length": 4,
       "value": "true"
     },
