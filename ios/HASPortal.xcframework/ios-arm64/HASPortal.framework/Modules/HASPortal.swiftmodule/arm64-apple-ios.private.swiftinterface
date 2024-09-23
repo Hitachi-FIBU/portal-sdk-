@@ -87,6 +87,7 @@ extension HASPortal.WKWebViewController {
   @_Concurrency.MainActor(unsafe) public func executeScript(script: Swift.String, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
 }
 extension HASPortal.WKWebViewController : WebKit.WKUIDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, createWebViewWith configuration: WebKit.WKWebViewConfiguration, for navigationAction: WebKit.WKNavigationAction, windowFeatures: WebKit.WKWindowFeatures) -> WebKit.WKWebView?
 }
 extension HASPortal.WKWebViewController : WebKit.WKNavigationDelegate {
   @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, didStartProvisionalNavigation navigation: WebKit.WKNavigation!)
