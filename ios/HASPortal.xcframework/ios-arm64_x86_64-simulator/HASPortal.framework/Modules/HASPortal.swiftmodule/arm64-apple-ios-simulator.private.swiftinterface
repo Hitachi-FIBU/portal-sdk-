@@ -3,6 +3,7 @@
 // swift-module-flags: -target arm64-apple-ios12-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name HASPortal
 import DeveloperToolsSupport
 import Foundation
+import PDFKit
 import Swift
 import SwiftUI
 import UIKit
