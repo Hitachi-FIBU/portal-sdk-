@@ -1,11 +1,10 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
 // swift-module-flags: -target arm64-apple-ios12 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name HASPortal
-import DeveloperToolsSupport
+import Contacts
 import Foundation
 import PDFKit
 import Swift
-import SwiftUI
 import UIKit
 import WebKit
 import _Concurrency
@@ -155,6 +154,7 @@ public typealias EventListener = (Swift.AnyObject) -> [Swift.String : Any]?
   public func addEventListener(eventName: Swift.String, listener: @escaping HASPortal.EventListener)
   public func notifyListener(eventName: Swift.String, data: [Swift.String : Any])
   public func notifyListeners(eventName: Swift.String, data: [Swift.String : Any], retainUntilConsumed: Swift.Bool = false)
+  public func requestContactsPermission()
   @objc deinit
 }
 extension HASPortal.NavigationBarPosition : Swift.Hashable {}
