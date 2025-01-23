@@ -2,9 +2,11 @@
 // swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
 // swift-module-flags: -target x86_64-apple-ios12-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name HASPortal
 import Contacts
+import DeveloperToolsSupport
 import Foundation
 import PDFKit
 import Swift
+import SwiftUI
 import UIKit
 import WebKit
 import _Concurrency
